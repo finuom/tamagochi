@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Id": "org.mounif.tamagato",
+        "Name": "Tamadragão",
+        "Name[pt_BR]": "Tamadragão",
+        "Description": "Um bichinho virtual (dragão) para cuidar na área de trabalho",
+        "Icon": "applications-games",
+        "Authors": [ { "Name": "Mounif" } ],
+        "Category": "Fun and Games",
+        "License": "MIT",
+        "Version": "1.0",
+        "ServiceTypes": [ "Plasma/Applet" ]
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
