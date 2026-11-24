@@ -7,8 +7,6 @@ Funciona de dois jeitos, com o mesmo arquivo:
 - **No navegador:** abra `widget/contents/html/tamagato.html`.
 - **Como widget do KDE Plasma:** a pasta `widget/` é o pacote do plasmoide, que carrega o mesmo HTML com `?widget=1` (fundo transparente e ajuste ao tamanho).
 
-**No ar:** https://tamagochi.isabellaviana.com
-
 ## Controles
 
 | Botão | Teclado | Ação |
