@@ -2,6 +2,8 @@
 
 Um dragãozinho virtual estilo tamagotchi, num arquivo HTML só: dê comida, brinque, deixe dormir, limpe a sujeira e dê remédio quando ele ficar doente. Ele continua vivendo mesmo com a página fechada (o progresso fica no `localStorage`).
 
+**No ar:** https://tamadragao.vercel.app
+
 Funciona de dois jeitos, com o mesmo arquivo:
 
 - **No navegador:** abra `widget/contents/html/tamagato.html`.
